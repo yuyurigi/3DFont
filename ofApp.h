@@ -29,7 +29,6 @@ class ofApp : public ofBaseApp{
     vector <ofMesh> textMesh;
     ofMesh side;
     vector <ofPath> letterPaths;
-    vector <ofPath> letterPaths2;
     vector <ofPolyline> lines;
     string typeStr;
     ofRectangle bbox;
